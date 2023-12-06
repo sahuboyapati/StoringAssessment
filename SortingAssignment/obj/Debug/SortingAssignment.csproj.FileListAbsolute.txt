@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Phase1\SortingAssignment\SortingAssignment\bin\Debug\SortingAssignment.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Phase1\SortingAssignment\SortingAssignment\bin\Debug\SortingAssignment.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Phase1\SortingAssignment\SortingAssignment\bin\Debug\SortingAssignment.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Phase1\SortingAssignment\SortingAssignment\obj\Debug\SortingAssignment.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Phase1\SortingAssignment\SortingAssignment\obj\Debug\SortingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Phase1\SortingAssignment\SortingAssignment\obj\Debug\SortingAssignment.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Phase1\SortingAssignment\SortingAssignment\obj\Debug\SortingAssignment.pdb

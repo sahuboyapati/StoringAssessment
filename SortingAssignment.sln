@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoringAssessment", "SortingAssignment\StoringAssessment.csproj", "{A8FAD377-7C7D-47F0-913E-5BEA4A29C60E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8FAD377-7C7D-47F0-913E-5BEA4A29C60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FAD377-7C7D-47F0-913E-5BEA4A29C60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FAD377-7C7D-47F0-913E-5BEA4A29C60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FAD377-7C7D-47F0-913E-5BEA4A29C60E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEBDD5B9-8FB2-438B-90C3-8B0C8BDD26E1}
+	EndGlobalSection
+EndGlobal
